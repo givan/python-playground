@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/givan/.local/share/virtualenvs/python-playground-8DzyOZwR/bin/python"
+    "python.pythonPath": "/Users/givan/.local/share/virtualenvs/python-playground-8DzyOZwR/bin/python",
+    "FSharp.suggestGitignore": false
 }

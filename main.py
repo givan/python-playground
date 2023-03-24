@@ -14,6 +14,8 @@ text = (
 print(text)
 print(len(text))
 
+print(f"{'hello':>10} world")
+
 # unicode strings
 asciiStr = 'this is my unicode string'
 print('%s - ASCII string len: %d' % (asciiStr, len(asciiStr)))
